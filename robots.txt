@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://philippe-dupuy.fr/sitemap.xml
